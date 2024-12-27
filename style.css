@@ -1,0 +1,47 @@
+.navbar {
+    font-family: "Didact Gothic", serif;
+    background-color: white;
+}
+
+p, h1, h2, h5{
+    font-family: "Didact Gothic", serif;
+}
+
+.carousel-inner img {
+    max-height: 500px;
+    object-fit: cover; 
+    width: 100%;
+}
+
+.hero{
+    background: url('https://wallpapercave.com/wp/wp12497832.jpg') no-repeat;
+    background-size: cover;
+    height: 0.5vh;
+    min-height: 600px;
+    color: white;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    text-shadow: 2px 2px 5px black;
+}
+
+.accordion-button {
+    background-color: #000;
+    color: #fff;
+}
+
+.productos{
+    background-color: #ebe8e4;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+html {
+    scroll-padding-top: 80px;
+}
